@@ -1,0 +1,211 @@
+{
+    "@context": { 
+        "schema": "http://schema.org/",
+        "streams": "schema:track",
+        "stations": "schema:itemListElement",
+        "title": "schema:title",
+        "description": "schema:description",
+        "contentUrl": "schema:contentUrl",
+        "encodingFormat": "schema:encodingFormat",
+        "addressCountry": "schema:adressCountry"
+    },
+
+    "@type": "schema:MusicPlaylist",
+    "streams": {
+        "@type": "schema:ItemList",
+        "stations": [
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Bern",
+                "description": "Energy Bern",
+                "contentUrl": "http://energybern.ice.infomaniak.ch:80/energybern-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Zürich",
+                "description": "Energy Zürich",
+                "contentUrl": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Basel",
+                "description": "Energy Basel",
+                "contentUrl": "http://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Black",
+                "description": "Energy Black",
+                "contentUrl": "http://energyblack.ice.infomaniak.ch/energyblack-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Dance",
+                "description": "Energy Dance",
+                "contentUrl": "http://energydance.ice.infomaniak.ch/energydance-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Electro",
+                "description": "Energy Electro",
+                "contentUrl": "http://energyelektro.ice.infomaniak.ch/energyelektro-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Rock",
+                "description": "Energy Rock",
+                "contentUrl": "http://energyrock.ice.infomaniak.ch/energyrock-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Hot",
+                "description": "Energy Hot",
+                "contentUrl": "http://energyhot.ice.infomaniak.ch/energyhot-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Charts",
+                "description": "Energy Charts",
+                "contentUrl": "http://energycharts.ice.infomaniak.ch/energycharts-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy German",
+                "description": "Energy German",
+                "contentUrl": "http://energygerman.ice.infomaniak.ch/energygerman-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Italy",
+                "description": "Energy Italy",
+                "contentUrl": "http://energyitaly.ice.infomaniak.ch/energyitaly-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Swiss",
+                "description": "Energy Swiss",
+                "contentUrl": "http://energyswiss.ice.infomaniak.ch/energyswiss-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Lounge",
+                "description": "Energy Lounge",
+                "contentUrl": "http://energylounge.ice.infomaniak.ch/energylounge-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Soundtrack",
+                "description": "Energy Soundtrack",
+                "contentUrl": "http://energysoundtrack.ice.infomaniak.ch/energysoundtrack-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Live",
+                "description": "Energy Live",
+                "contentUrl": "http://energylive.ice.infomaniak.ch/energylive-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Love",
+                "description": "Energy Love",
+                "contentUrl": "http://energylove.ice.infomaniak.ch/energylove-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Mix",
+                "description": "Energy Mix",
+                "contentUrl": "http://energymix.ice.infomaniak.ch/energymix-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Girl",
+                "description": "Energy Girl",
+                "contentUrl": "http://energygirl.ice.infomaniak.ch/energygirl-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy Workout",
+                "description": "Energy Workout",
+                "contentUrl": "http://energyworkout.ice.infomaniak.ch/energyworkout-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy 00's",
+                "description": "Energy 00's",
+                "contentUrl": "http://energy00s.ice.infomaniak.ch/energy00s-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy 10's",
+                "description": "Energy 10's",
+                "contentUrl": "http://energy10s.ice.infomaniak.ch/energy10s-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy 80's",
+                "description": "Energy 80's",
+                "contentUrl": "http://energy80s.ice.infomaniak.ch/energy80s-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Energy 90's",
+                "description": "Energy 90's",
+                "contentUrl": "http://energy90s.ice.infomaniak.ch/energy90s-high.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            },
+            {
+                "@type": "schema:AudioObject",
+                "title": "Radio Bern 1",
+                "description": "Radio Bern 1",
+                "contentUrl": "http://www.radiobern1.ch/webstream.mp3",
+                "encodingFormat": "mp3",
+                "addressCountry": "CH"
+            }
+        ]
+    }
+}
